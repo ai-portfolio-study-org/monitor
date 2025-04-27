@@ -1,0 +1,10 @@
+{
+    "ModelName": "qwen2.5-0.5b-instruct-q2_k.gguf",
+    "ModelFormat": "gguf",
+    "Dataset": "SampleDataset",
+    "Accuracy": 0.939,
+    "F1": 0.864,
+    "Latency(ms)": 72,
+    "Throughput(req/s)": 14.98,
+    "Timestamp": "2025-04-28T02:34:13.454707"
+}

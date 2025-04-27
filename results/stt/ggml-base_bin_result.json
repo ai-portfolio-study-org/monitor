@@ -1,0 +1,10 @@
+{
+    "ModelName": "ggml-base.bin",
+    "ModelFormat": "cpp",
+    "Dataset": "SampleDataset",
+    "WER": 0.188,
+    "CER": 0.139,
+    "Latency(ms)": 130,
+    "Throughput(req/s)": 12.05,
+    "Timestamp": "2025-04-28T02:20:01.323442"
+}
